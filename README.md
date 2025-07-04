@@ -66,7 +66,7 @@
 ### 📱 Redes Sociales
 
 <p align="left">
-  <a href="https://www.instagram.com/moises.osrio" target="_blank">
+  <a href="https://www.instagram.com/aquinoby2002_/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
