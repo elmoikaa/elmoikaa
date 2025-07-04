@@ -43,6 +43,14 @@
   <img alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+### 🌐 Redes Sociales
+
+<p align="left">
+  <a href="https://www.instagram.com/moises.osrio" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 
   <hr>
   <p align="center">
