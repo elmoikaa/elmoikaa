@@ -104,10 +104,13 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
   <a href="https://www.instagram.com/moises.osrio/" target="_blank" rel="noopener noreferrer">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+<a href="https://x.com/moises_osrio" target="_blank">
+  <img alt="X" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" title="Sígueme en X (antes Twitter)"/>
+</a>
 </p>
 
 
-  <hr>
+<hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elmoikaa&show_icons=true&theme=gruvbox&hide_border=true&icon_color=FFD700&title_color=00FF00&text_color=00FF00" width="425" alt="elmoikaa's GitHub Stats" />
 </p>
