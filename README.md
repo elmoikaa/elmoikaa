@@ -1,4 +1,4 @@
-<h1 align="center">Hola , Soy Moika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , Soy Moises <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=En+Este+2025+Estoy;Estudiando+un;Técnico+Especialista+en+Programación;También+siendo+autodidacta&center=true&width=600&height=45">
 </a>
