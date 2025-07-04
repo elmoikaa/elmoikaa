@@ -8,7 +8,7 @@
 <hr>
 
 🥷🏻 Soy un chico de 22 años, actualmente estoy estudiando un **Técnico Especialista en Programación**.  
-📝 Estoy aprendiendo **BACKEND** aunque también quiero especializarme un poco en el **FRONTEND**.
+📝 Estoy aprendiendo **BACKEND** aunque también quiero especializarme un poco en el **FRONTEND**.  
 🚩 En este perfil iré subiendo mis proyectos personales, proyectos para practicar las cosas nuevas que voy aprendiendo. Asi que por el momento el perfil no será profesional, sino para mostrar mis avances personales e ir disfrutando mucho este proceso de aprendizaje.  
 🎵 Me gusta la música urbana, siempre estoy escuchando algo mientras estudio o programo
 
