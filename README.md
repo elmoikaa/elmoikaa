@@ -17,6 +17,8 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 
 <hr>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## 📚 Aprendiendo en este 2025
 
 ### 👨‍💻 Lenguajes
