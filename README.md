@@ -9,7 +9,7 @@
 
 
 <hr>
-<br>
+<hr>
 
 ## 🛠️ Herramientas que he usado o estoy aprendiendo
 
