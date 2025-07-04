@@ -21,6 +21,8 @@
 ```
 <hr>
 
+<hr>
+
 ## 🛠️ Herramientas que he usado y que estoy aprendiendo
 
 <p>
