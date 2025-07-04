@@ -75,6 +75,28 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
   <img alt="Plugin Dev" src="https://img.shields.io/badge/Plugin%20Dev-8B5CF6?style=for-the-badge"/>
 </p>
 
+### 👾 Pixel Art Games
+
+<p align="left">
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img alt="GDScript" src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E"/>
+</p>
+
+<details>
+<summary>¿Por qué usar estas herramientas?</summary>
+
+- <b>Godot Engine</b>: Es un motor de juegos open source, ligero y muy potente para crear juegos 2D (especialmente pixel art) y 3D. Tiene una comunidad activa, mucha documentación en español y permite exportar a muchas plataformas.
+- <b>GDScript</b>: Es el lenguaje principal de Godot. Es fácil de aprender, similar a Python y optimizado para el desarrollo rápido de juegos.
+- <b>Aseprite</b>: Es una de las mejores herramientas para crear sprites, animaciones y efectos visuales en pixel art. Su flujo de trabajo es ideal para exportar recursos directamente a Godot.
+</details>
+
 ### 📱 Redes Sociales
 
 <p align="left">
