@@ -20,19 +20,37 @@
 
 <hr>
 
-## 🛠️ Lenguajes y Herramientas que he usado o estoy aprendiendo
+## 🛠️ Herramientas que he usado o estoy aprendiendo
+
+### 👨‍💻 Lenguajes de Programación
 
 <p align="left">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img alt="ASEPRITE" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E"/>
-  <img alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="PhpMyAdmin" src="https://img.shields.io/badge/PhpMyAdmin-4F5B93?style=for-the-badge"/>
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JAVASCRIPT" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
+
+### 🧰 Frameworks y Librerías
+
+<p align="left">
+  <img alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
+
+### 🗄️ Bases de Datos
+
+<p align="left">
+  <img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img alt="PhpMyAdmin" src="https://img.shields.io/badge/PhpMyAdmin-4F5B93?style=for-the-badge"/>
+</p>
+
+### 🎨 Diseño y Edición
+
+<p align="left">
+  <img alt="ASEPRITE" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E"/>
+  <img alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
 
   <hr>
   <p align="center">
