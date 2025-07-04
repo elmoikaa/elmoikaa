@@ -7,7 +7,6 @@
 <img align="left" src="https://i.pinimg.com/736x/07/1e/57/071e573e50cb87f1b0cc56696efff8d8.jpg" alt="Imagen no disponible" width="320" />
 <hr>
 
-## 👋 Sobre mí
 
 💻 Soy un chico de 22 años, actualmente estudiando un **Técnico Especialista en Programación**  
 📚 Estoy aprendiendo **BACKEND** con **PHP** y **LARAVEL**  
