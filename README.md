@@ -21,11 +21,11 @@
 ```
 <hr>
 
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
+## 🛠️ Herramientas que he usado
 
 <p>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+    <img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+    <img alt="JAVA" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
     
