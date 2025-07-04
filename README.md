@@ -54,7 +54,8 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 </p>
 
 <hr>
-<img src="https://i.gifer.com/EPts.mp4" width="35">
+<img src="https://media1.tenor.com/m/BktNwBMea4wAAAAd/aquinoby2002.gif" width="100">
+<img src="https://i.pinimg.com/736x/3c/d3/7d/3cd37d3eedd44cd0dd649e05ee763d8c.jpg" width="100">
 <hr>
 
 
