@@ -54,6 +54,7 @@
 
 <p align="left">
   <img alt="Laragon" src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white"/>
+<img alt="Composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
 </p>
 
 ### 📱 Redes Sociales
