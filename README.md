@@ -24,16 +24,22 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ### 🚦 Framework y Librerías
 <p align="left">
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 🎨 Diseño UX/UI
 <p align="left">
   <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 🗄️ Bases de Datos
 <p align="left">
@@ -42,16 +48,22 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ### 🧠 IDEs y Editores de Código
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### ⚙️ Herramientas de Desarrollo
 <p align="left">
   <img alt="Laragon" src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white"/>
   <img alt="Composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
 </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr>
 <div>
