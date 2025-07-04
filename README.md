@@ -53,9 +53,11 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
   <img alt="Composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
 </p>
 
----  
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
----  
+<hr>
+
+<hr>
+
+
 
 ## 🚀 Próximos Aprendizajes
 
