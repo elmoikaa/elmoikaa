@@ -12,7 +12,7 @@
 🚩 En este perfil iré subiendo mis proyectos personales, proyectos para practicar las cosas nuevas que voy aprendiendo,  
 asi que por el momento el perfil no será profesional, sino para mostrar mis avances personales e ir disfrutando mucho este proceso de aprendizaje.  
 🎮 Me gusta jugar al **Minecraft, GTA, Mobile Legends**.  
-📦 Me gustaria desarrollar un juegos al estilo pixel art, nada mas por la anécdota.  
+📦 Me gustaria desarrollar un juegos con el estilo pixel art, nada mas por la anécdota.  
 🎵 Me gusta la música urbana, siempre estoy escuchando algo mientras estudio o programo.
 
 <hr>
