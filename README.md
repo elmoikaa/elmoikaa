@@ -101,12 +101,13 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 ### 📱 Redes Sociales
 
 <p align="left">
-  <a href="https://www.instagram.com/moises.osrio/" target="_blank" rel="noopener noreferrer">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/moises.osrio/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Sígueme en Instagram"/>
   </a>
-<a href="https://x.com/moises_osrio" target="_blank">
-  <img alt="X" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" title="Sígueme en X (antes Twitter)"/>
-</a>
+  &nbsp;
+  <a href="https://x.com/moises_osrio" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" title="Sígueme en X (antes Twitter)"/>
+  </a>
 </p>
 
 
