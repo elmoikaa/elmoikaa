@@ -17,7 +17,7 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 
 <hr>
 
-## 📚 Aprendiendo
+## 📚 Aprendiendo en este 2025
 
 ### 👨‍💻 Lenguaje
 <p align="left">
@@ -45,7 +45,6 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 ### 🧠 IDEs y Editores de Código
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
 ### ⚙️ Herramientas de Desarrollo
