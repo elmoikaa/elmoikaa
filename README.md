@@ -84,12 +84,13 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 </p>
 
 
-
   <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmoikaa&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elmoikaa&show_icons=true&theme=gruvbox&hide_border=true&icon_color=FFD700&title_color=00FF00&text_color=00FF00" width="425" alt="elmoikaa's GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmoikaa&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoikaa&layout=compact&theme=gruvbox&hide_border=true&title_color=00FF00&text_color=FFD700" width="320" alt="Most Used Languages" />
+</p>
 
 <hr>
