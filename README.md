@@ -19,17 +19,17 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 
 ## 📚 Aprendiendo en este 2025
 
-### 👨‍💻 Lenguaje
+### 👨‍💻 Lenguajes
 <p align="left">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### 🚦 Framework
+### 🚦 Framework y Librerías
 <p align="left">
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
-### 🎨 Diseño y Edición
+### 🎨 Diseño UX/UI
 <p align="left">
   <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
