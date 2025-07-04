@@ -12,7 +12,7 @@
 🚩 En este perfil iré subiendo mis proyectos personales, proyectos para practicar las cosas nuevas que voy aprendiendo,  
 asi que por el momento el perfil no será profesional, sino para mostrar mis avances personales e ir disfrutando mucho este proceso de aprendizaje.  
 🎮 Me gustan los juegos como **Minecraft, GTA, Mobile Legends**.  
-📦 A veces me gustar intentar programador plugins o mods para Minecraft.  
+📦 Me gustaria desarrollar un juegos estilo pixel art, nada mas por la anécdota.  
 🎵 Me gusta la música urbana, siempre estoy escuchando algo mientras estudio o programo.
 
 <hr>
@@ -72,37 +72,14 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
-  ### 🧩 Herramientas MC
-<p align="left">
-  <img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
-  <img alt="Spigot" src="https://img.shields.io/badge/Spigot-FFA500?style=for-the-badge"/>
-  <img alt="Bukkit" src="https://img.shields.io/badge/Bukkit-FF0000?style=for-the-badge"/>
-  <img alt="PaperMC" src="https://img.shields.io/badge/PaperMC-2A2A2A?style=for-the-badge"/>
-  <img alt="Forge" src="https://img.shields.io/badge/Forge-303030?style=for-the-badge"/>
-  <img alt="Fabric" src="https://img.shields.io/badge/Fabric-7E7E7E?style=for-the-badge"/>
-</p>
-
 ### 👾 Pixel Art Games
 
-<p align="left">
+<p>
   <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-</p>
-
-<p align="left">
   <img alt="GDScript" src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E" title="Ya lo estoy aprendiendo"/>
 </p>
 
-<p align="left">
-  <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E"/>
-</p>
-
-<details>
-<summary>¿Por qué usar estas herramientas?</summary>
-
-- <b>Godot Engine</b>: Es un motor de juegos open source, ligero y muy potente para crear juegos 2D (especialmente pixel art) y 3D. Tiene una comunidad activa, mucha documentación en español y permite exportar a muchas plataformas.
-- <b>GDScript</b>: Es el lenguaje principal de Godot. Es fácil de aprender, similar a Python y optimizado para el desarrollo rápido de juegos.
-- <b>Aseprite</b>: Es una de las mejores herramientas para crear sprites, animaciones y efectos visuales en pixel art. Su flujo de trabajo es ideal para exportar recursos directamente a Godot.
-</details>
 
 ### 📱 Redes Sociales
 
