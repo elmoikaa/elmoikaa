@@ -64,7 +64,7 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
-### 🧩 Herramientas y Plugins para Juegos
+  ### 🧩 Herramientas MC
 <p align="left">
   <img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
   <img alt="Spigot" src="https://img.shields.io/badge/Spigot-FFA500?style=for-the-badge"/>
@@ -72,7 +72,6 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
   <img alt="PaperMC" src="https://img.shields.io/badge/PaperMC-2A2A2A?style=for-the-badge"/>
   <img alt="Forge" src="https://img.shields.io/badge/Forge-303030?style=for-the-badge"/>
   <img alt="Fabric" src="https://img.shields.io/badge/Fabric-7E7E7E?style=for-the-badge"/>
-  <img alt="Plugin Dev" src="https://img.shields.io/badge/Plugin%20Dev-8B5CF6?style=for-the-badge"/>
 </p>
 
 ### 👾 Pixel Art Games
