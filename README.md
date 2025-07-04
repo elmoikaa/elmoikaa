@@ -9,8 +9,6 @@
 
 ## 👋 Sobre mí
 
-<hr>
-
 💻 Soy un chico de 22 años, actualmente estudiando un **Técnico Especialista en Programación**  
 📚 Estoy aprendiendo **BACKEND** con **PHP** y **LARAVEK¿L**  
 📝 También quiero especializarme un poco en el área de **FRONTEND**  
