@@ -54,8 +54,11 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 </p>
 
 <hr>
-<img src="https://media1.tenor.com/m/BktNwBMea4wAAAAd/aquinoby2002.gif" width="100">
-<img src="https://i.pinimg.com/736x/3c/d3/7d/3cd37d3eedd44cd0dd649e05ee763d8c.jpg" width="100">
+<div>
+  <img src="https://media1.tenor.com/m/BktNwBMea4wAAAAd/aquinoby2002.gif" width="150" height="100">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/736x/3c/d3/7d/3cd37d3eedd44cd0dd649e05ee763d8c.jpg" width="100" height="100">
+</div>
 <hr>
 
 
