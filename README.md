@@ -21,7 +21,7 @@
 ```
 <hr>
 
-## 🛠️ Herramientas que he usado
+## 🛠️ Herramientas que he usado y que estoy aprendiendo
 
 <p>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
