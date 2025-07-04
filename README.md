@@ -54,7 +54,7 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 </p>
 
 <hr>
-
+<img src="https://i.gifer.com/EPts.mp4" width="35">
 <hr>
 
 
