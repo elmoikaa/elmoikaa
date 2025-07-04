@@ -77,7 +77,9 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 <p>
   <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
   <img alt="GDScript" src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-  <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E" title="Ya lo estoy aprendiendo"/>
+  <a href="#-diseño-uxui">
+    <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E" title="Ya lo estoy aprendiendo"/>
+  </a>
 </p>
 
 
