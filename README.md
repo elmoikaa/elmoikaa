@@ -43,6 +43,19 @@
   <img alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+### 🧠 IDEs y Editores de Código
+
+<p align="left">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+</p>
+
+### ⚙️ Herramientas de Desarrollo
+
+<p align="left">
+  <img alt="Laragon" src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white"/>
+</p>
+
 ### 📱 Redes Sociales
 
 <p align="left">
