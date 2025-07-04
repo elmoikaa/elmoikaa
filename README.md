@@ -33,6 +33,7 @@
 <p align="left">
   <img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   <img alt="PhpMyAdmin" src="https://img.shields.io/badge/PhpMyAdmin-4F5B93?style=for-the-badge"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🎨 Diseño y Edición
