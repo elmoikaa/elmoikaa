@@ -28,6 +28,7 @@
   <img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   <img alt="ASEPRITE" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E"/>
   <img alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="PhpMyAdmin" src="https://img.shields.io/badge/PhpMyAdmin-4F5B93?style=for-the-badge"/>
 </p>
 
   <hr>
