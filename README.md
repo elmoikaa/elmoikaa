@@ -17,50 +17,63 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 
 <hr>
 
-## 🛠️ Herramientas que estoy aprendiendo
+## 📚 Aprendiendo
 
-### 👨‍💻 Lenguajes
-
+### 👨‍💻 Lenguaje
 <p align="left">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JAVASCRIPT" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
-### 🧰 Frameworks y Librerías
-
+### 🚦 Framework
 <p align="left">
-  <img alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-</p>
-
-### 🗄️ Bases de Datos
-
-<p align="left">
-  <img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img alt="PhpMyAdmin" src="https://img.shields.io/badge/PhpMyAdmin-4F5B93?style=for-the-badge"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
 ### 🎨 Diseño y Edición
-
 <p align="left">
-  <img alt="ASEPRITE" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E"/>
-  <img alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E"/>
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+### 🗄️ Bases de Datos
+<p align="left">
+  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img alt="PhpMyAdmin" src="https://img.shields.io/badge/PhpMyAdmin-4F5B93?style=for-the-badge"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🧠 IDEs y Editores de Código
-
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
 ### ⚙️ Herramientas de Desarrollo
-
 <p align="left">
   <img alt="Laragon" src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white"/>
-<img alt="Composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
+  <img alt="Composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Próximos Aprendizajes
+
+### 👨‍💻 Lenguajes
+<p align="left">
+  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+### 🧩 Herramientas y Plugins para Juegos
+<p align="left">
+  <img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
+  <img alt="Spigot" src="https://img.shields.io/badge/Spigot-FFA500?style=for-the-badge"/>
+  <img alt="Bukkit" src="https://img.shields.io/badge/Bukkit-FF0000?style=for-the-badge"/>
+  <img alt="PaperMC" src="https://img.shields.io/badge/PaperMC-2A2A2A?style=for-the-badge"/>
+  <img alt="Forge" src="https://img.shields.io/badge/Forge-303030?style=for-the-badge"/>
+  <img alt="Fabric" src="https://img.shields.io/badge/Fabric-7E7E7E?style=for-the-badge"/>
+  <img alt="Plugin Dev" src="https://img.shields.io/badge/Plugin%20Dev-8B5CF6?style=for-the-badge"/>
 </p>
 
 ### 📱 Redes Sociales
