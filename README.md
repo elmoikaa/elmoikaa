@@ -11,7 +11,7 @@
 <hr>
 <hr>
 
-## 🛠️ Herramientas que he usado o estoy aprendiendo
+## 🛠️ Herramientas que estoy aprendiendo
 
 ### 👨‍💻 Lenguajes
 
