@@ -8,15 +8,6 @@
 <hr>
 
 
-💻 Soy un chico de 22 años, actualmente estudiando un **Técnico Especialista en Programación**  
-📚 Estoy aprendiendo **BACKEND** con **PHP** y **LARAVEL**  
-📝 También quiero especializarme un poco en el área de **FRONTEND**  
-🌟 Usando tecnologías como **HTML, CSS y JAVASCRIPT**  
-🚩 En este perfil iré subiendo mis proyectos; por el momento,  
-💖 No serán trabajos profesionales, sino avances personales  
-🌱 Para ir disfrutando mucho este proceso de aprendizaje  
-🎵 Me gusta la música urbana, siempre estoy escuchando algo mientras estudio o programo
-
 <hr>
 
 ## 🛠️ Herramientas que he usado o estoy aprendiendo
