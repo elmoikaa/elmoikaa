@@ -75,7 +75,7 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 </div>
 <hr>
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🚀 Próximos Aprendizajes
 
