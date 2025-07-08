@@ -4,15 +4,12 @@
 </a>
 
 </p>
-<img align="left" src="https://i.pinimg.com/736x/07/1e/57/071e573e50cb87f1b0cc56696efff8d8.jpg" alt="Imagen no disponible" width="320" />
+<img align="left" src="https://i.pinimg.com/736x/07/1e/57/071e573e50cb87f1b0cc56696efff8d8.jpg" alt="Imagen no disponible" width="150" />
 <hr>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-🥷🏻 Soy un chico de 22 años, actualmente estoy estudiando un **Técnico Especialista en Programación**.  
-📝 Estoy aprendiendo **BACKEND** aunque también quiero especializarme un poco en el **FRONTEND**.  
-🚩 En este perfil iré subiendo mis proyectos personales, proyectos para practicar las cosas nuevas que voy aprendiendo,  
-asi que por el momento el perfil no será profesional, sino para mostrar mis avances personales e ir disfrutando mucho este proceso de aprendizaje.  
+📝 Estoy aprendiendo **BACKEND** aunque también quiero especializarme un poco en el **FRONTEND**.   
 🎮 Me gusta jugar al **Minecraft, GTA, Mobile Legends**.  
-📦 Me gustaria desarrollar un juegos con el estilo pixel art, nada mas por la anécdota.  
 🎵 Me gusta la música urbana, siempre estoy escuchando algo mientras estudio o programo.
 
 <hr>
@@ -24,6 +21,9 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 ### 👨‍💻 Lenguajes
 <p align="left">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,34 +35,9 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-### 🎨 Diseño UX/UI
-<p align="left">
-  <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E"/>
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-### 🗄️ Bases de Datos
-<p align="left">
-  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img alt="PhpMyAdmin" src="https://img.shields.io/badge/PhpMyAdmin-4F5B93?style=for-the-badge"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 ### 🧠 IDEs y Editores de Código
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-### ⚙️ Herramientas de Desarrollo
-<p align="left">
-  <img alt="Laragon" src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white"/>
-  <img alt="Composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,36 +50,6 @@ asi que por el momento el perfil no será profesional, sino para mostrar mis ava
 </div>
 <hr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-## 🚀 Próximos Aprendizajes
-
-### 👨‍💻 Lenguajes
-<p align="left">
-  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
-    
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-### ⚙️ Herramientas
-<p align="left">
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-    
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-### 👾 Pixel Art Games
-
-<p>
-  <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-  <img alt="GDScript" src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-  <a href="#-diseño-uxui">
-    <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E" title="YA LO ESTOY APRENDIENDO 🥷🏻"/>
-  </a>
-</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
