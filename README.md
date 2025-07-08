@@ -1,6 +1,6 @@
 <h1 align="center">Hola , Soy Fernando Duarte <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://github.com/elmoikaa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Técnico+Especialista+en+Programación&center=true&width=600&height=45">
+<a href="https://github.com/elmoikaa"><img src="https://readme-typing-svg.herokuapp.com?lines=Técnico+Especialista+en+Programación&center=true&width=600&height=45">
 </a>
 
 </p>
