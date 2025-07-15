@@ -53,24 +53,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-### 📱 Redes Sociales
-
-<p align="left">
-  <a href="https://www.instagram.com/moises.osrio/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Sígueme en Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/moises_osrio" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" title="Sígueme en X (antes Twitter)"/>
-  </a>
-</p>
-
-
-<hr>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmoikaa&show_icons=true&theme=gruvbox&hide_border=true&icon_color=FFD700&title_color=00FF00&text_color=00FF00" width="425" alt="elmoikaa's GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoikaa&layout=compact&theme=gruvbox&hide_border=true&title_color=00FF00&text_color=FFD700&cache_seconds=1" width="320" alt="Most Used Languages" />
 </p>
