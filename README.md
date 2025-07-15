@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoikaa&layout=compact&theme=gruvbox&hide_border=true&title_color=00FF00&text_color=FFD700" width="320" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoikaa&layout=compact&theme=gruvbox&hide_border=true&title_color=00FF00&text_color=FFD700&cache_seconds=1" width="320" alt="Most Used Languages" />
 </p>
 
 <hr>
