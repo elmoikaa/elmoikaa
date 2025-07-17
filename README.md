@@ -4,7 +4,7 @@
 </a>
 
 </p>
-<img align="left" src="https://i.pinimg.com/736x/07/1e/57/071e573e50cb87f1b0cc56696efff8d8.jpg" alt="Imagen no disponible" width="150" />
+<img align="left" src="https://i.pinimg.com/736x/07/1e/57/071e573e50cb87f1b0cc56696efff8d8.jpg" alt="Imagen no disponible" width="200" />
 <hr>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
