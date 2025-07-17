@@ -9,6 +9,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 📝 Estoy aprendiendo **BACKEND** aunque también quiero especializarme un poco en el **FRONTEND**.   
+🛸 Por el momento este perfil no será nada profesional  
+si no que será personal para compartir mis avances de aprendizaje  
 🎮 Me gusta jugar al **Minecraft, GTA, Mobile Legends**.  
 🎵 Me gusta la música urbana, siempre estoy escuchando algo mientras estudio o programo.
 
