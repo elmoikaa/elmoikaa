@@ -8,24 +8,12 @@
 <hr>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-📝 Estoy aprendiendo **BACKEND** aunque también quiero especializarme un poco en el **FRONTEND**.   
-🛸 Por el momento este perfil no será nada profesional si no que será personal para   compartir mis avances de aprendizaje.  
-🎮 Me gusta jugar al **Minecraft, GTA, Mobile Legends**.  
-🎵 Me gusta la música urbana, siempre estoy escuchando algo mientras estudio o programo.
-
-<hr>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 📚 Aprendiendo en este 2025
 
-### 👨‍💻 Lenguajes
-<p align="left">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
