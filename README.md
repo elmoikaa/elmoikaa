@@ -15,19 +15,6 @@
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-### 🚦 Framework y Librerías
-<p align="left">
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-### 🧠 IDEs y Editores de Código
-<p align="left">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
